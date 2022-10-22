@@ -3,3 +3,6 @@
 # мои аккаунтики
 [codepen](https://codepen.io/churka1488)
 [сайт](https://sss162088992.wordpress.com/)
+# Файлы в репозитории
+
+Морзянка (Лист Microsoft Excel.xlsx)
