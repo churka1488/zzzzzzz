@@ -40,5 +40,5 @@ $$ F=mc^2 $$
 
 $$ \color{Red}h_{max} = \frac{\mathcal{V_{0}^{2}}sin^{2}\alpha}{2g} $$
 
- ✈✈ → 🗼🗼 
+$$ \color{Dark blue}\mathcal{V_{y}}= g\sqrt{\frac{2h}{g}}
 
