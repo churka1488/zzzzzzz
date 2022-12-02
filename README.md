@@ -47,7 +47,7 @@ $$ \color{blue}a_{ц}=_\frac{4\pi^{2}R^{2}}{T^{2}R} $$
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
+A[9] -->|ОГЭ| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
