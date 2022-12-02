@@ -43,3 +43,12 @@ $$ \color{Red}h_{max} = \frac{\mathcal{V_{0}^{2}}sin^{2}\alpha}{2g} $$
 $$ \color{Purple}\mathcal{V_{y}}= g\sqrt{\frac{2h}{g}} $$
 
 $$ \color{blue}a_{ц}=_\frac{4\pi^{2}R^{2}}{T^{2}R} $$
+
+```mermaid
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
