@@ -54,9 +54,12 @@ C -->|<250| E[армия]
 ```
 | Задачи | готовность |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| 2 | - |
+| 3 | - |
+| 4 | - |
+| 5 | - |
+| 6 | - |
+| 7 | - |
+| 8 | - |
+| 9 | - |
+
