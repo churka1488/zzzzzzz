@@ -52,7 +52,7 @@ B --> C{ЕГЭ}
 C -->|250+| D[МГУ или ТПУ]
 C -->|<250| E[армия]
 ```
-| Plugin | README |
+| Задачи | README |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
