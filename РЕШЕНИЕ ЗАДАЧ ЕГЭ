@@ -12,6 +12,7 @@ stateDiagram-v2
     64 --> Ответ
 ```
 
+№20
 ```mermaid
 stateDiagram-v2
     >=129 --> 128:(П+1) - 3 ход
